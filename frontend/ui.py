@@ -1,7 +1,7 @@
 import streamlit as st
 import httpx
 
-API_URL = "http://localhost:8000"
+API_URL = "https://real-stat-ai-project.onrender.com"
 
 NEIGHBORHOOD_MAP = {
     "North Ridge Heights": "NridgHt",
